@@ -1,6 +1,9 @@
 # Credit Card Fraud Detection System
 A production-ready machine learning system for detecting fraudulent credit card transactions using ensemble methods, achieving 88% recall with 91% precision on highly imbalanced European transaction data.
 
+<img width="515" height="225" alt="image" src="https://github.com/user-attachments/assets/0c2e8470-2900-4e71-82e3-1b0b720c25f4" />
+
+
 ## Methodology
 1) Data Loading & Preprocessing
 2) Exploratory Data Analysis (Visualisations & Statistical Tests)
